@@ -8,13 +8,13 @@ Flask算是Non Full-Stack Web框架代表，是一个轻量级的Web Framework�
 
 1. 安装web框架
 
-'pip install flask'
+    pip install flask
 
 2. clone 代码到本地
 
 3. 命令行运行
 
-flask run
+    flask run
 
 4. 浏览器访问
 
