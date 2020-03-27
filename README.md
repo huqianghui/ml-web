@@ -7,14 +7,17 @@ Flask算是Non Full-Stack Web框架代表，是一个轻量级的Web Framework�
 ## 步骤
 
 1. 安装web框架
+
 'pip install flask'
 
 2. clone 代码到本地
 
 3. 命令行运行
-   flask run
+
+flask run
 
 4. 浏览器访问
+
 输入一个词，则去寻找前10个相似的词
 
 http://localhost:5000/demo?word=张飞
@@ -24,4 +27,5 @@ http://localhost:5000/demo?word=张飞
 http://localhost:5000/demo?word=刘备 关羽
 
 输入三个词，则进行词类推
+
 http://localhost:5000/demo?word=刘备 关羽 张飞
